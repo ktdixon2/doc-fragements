@@ -1,0 +1,13 @@
+div {
+    background-color: red; 
+
+}
+
+article {
+    background-color: blue;
+}
+
+section {
+    background-color: white;
+    border: dotted 1px ;
+}
